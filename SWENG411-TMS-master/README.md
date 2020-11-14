@@ -1,4 +1,4 @@
 # SWENG411-TMS
 SWENG411 Theater Management System Project
 
-Zach Plunkett
+Kip Feher, Zach Plunkett, Taylor Grayburn 
